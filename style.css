@@ -19,7 +19,7 @@ body
     background-image: linear-gradient(
     rgba(0,0,0,0.7),
     rgba(0,0,0,0.7)),
-    url(ImagenesRR/Rolls-Royce-phantom-white-car-front-view_1920x1200.jpg);
+    url(Rolls-Royce-phantom-white-car-front-view_1920x1200.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -132,7 +132,7 @@ body
         background-image: linear-gradient(
         rgba(0, 0, 0, 0.7),
         rgba(0, 0, 0, 0.7)),
-        url(ImagenesRR/desktop-wallpaper-2013-rolls-spirit-of-ecstasy.jpg);
+        url(desktop-wallpaper-2013-rolls-spirit-of-ecstasy.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -189,14 +189,14 @@ body
     }
     
     .general-2 {
-    background-image: url(ImagenesRR/GJWXI6SP4NEQDM2FCRLII6S6JA.png);
+    background-image: url(GJWXI6SP4NEQDM2FCRLII6S6JA.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
     }
     .general-3 {
-    background-image: url(ImagenesRR/16533990478609.jpg);
+    background-image: url(16533990478609.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
